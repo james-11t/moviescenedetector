@@ -16,7 +16,7 @@ A Python project that uses binary image classification to detect whether individ
 
 # Future Improvements
 
-• Scrape a wider range of video sharing platforms to develop a more accurate model
+• Scrape data from a wider range of video sharing platforms in order to develop a more accurate model
 
 • Install a GPU for efficiency in testing
 
