@@ -6,7 +6,7 @@ A Python project that uses binary image classification to detect whether a movie
 
 • User inputs an image
 
-• If the image is identified on the user's system, it will be passed to the classification model
+• If the file path the user has entered is valid, the image will be passed to the classification model
 
 • The classification model utilises the dataset it was trained on to detect whether the user's image was real or AI generated (assuming the user has inputted an image of a clip/movie scene)
 
