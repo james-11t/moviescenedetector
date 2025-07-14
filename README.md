@@ -8,7 +8,7 @@ A Python project that uses binary image classification to detect whether individ
 
 • If the file path the user has entered is valid, the image will be passed to the classification model
 
-• The classification model utilises the dataset it was trained on to detect whether the user's image was real or AI generated (assuming the user has inputted an image of a clip/movie scene)
+• The classification model utilises the dataset it was trained on to detect whether the user's input represents a frame that is either real or AI generated 
 
 •  If the model is not certain about the class the image belongs to (e.g. probability it belongs to the favoured class is less than 0.9), then we can assume the image the user passed does not represent a snapshot of a movie scene. Hence, we raise an error
 
