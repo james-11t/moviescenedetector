@@ -20,7 +20,7 @@ A Python project that uses binary image classification to detect whether individ
 
 • Install a GPU for efficiency in testing
 
-• Potentially create more classes to increase model accuracy (current model may falsely predict that a fictional movie is AI generated)
+• Potentially create more classes to increase model accuracy (e.g. current model may falsely predict that a fictional movie is AI generated)
 
 # How To Run
 
