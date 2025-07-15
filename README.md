@@ -1,4 +1,4 @@
-# Movie Scene Detector
+# AI Generated Clip Detector
 
 A Python project that uses binary image classification to detect whether individual frames from clips are real or AI generated. Makes use of a neural network which is trained on two classes of data: frames generated using viral Veo3 videos online (Google's latest AI video generational model) alongside frames from real world movie scenes for comparison. 
 
